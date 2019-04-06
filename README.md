@@ -1,2 +1,2 @@
 # MobileAutomation
-Mobile Automation HelloWorld Using Appium
+HelloWorld Mobile Automation Using Appium
