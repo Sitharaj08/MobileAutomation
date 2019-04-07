@@ -1,2 +1,2 @@
 # MobileAutomation
-HelloWorld Mobile Automation Using Appium
+HelloWorld Mobile BDD Automation Testing Project Using Appium And Cucumber
